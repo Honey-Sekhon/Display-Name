@@ -1,0 +1,14 @@
+
+State Machine - |LCD|stateMachine:obj1|currentState
+Name currentState.dt5 currentState.dt4 currentState.dt3 currentState.dt2 currentState.dt1 currentState.ins6 currentState.ins5 currentState.ins4 currentState.ins3 currentState.ins2 currentState.ins1 
+currentState.ins1 0 0 0 0 0 0 0 0 0 0 0 
+currentState.ins2 0 0 0 0 0 0 0 0 0 1 1 
+currentState.ins3 0 0 0 0 0 0 0 0 1 0 1 
+currentState.ins4 0 0 0 0 0 0 0 1 0 0 1 
+currentState.ins5 0 0 0 0 0 0 1 0 0 0 1 
+currentState.ins6 0 0 0 0 0 1 0 0 0 0 1 
+currentState.dt1 0 0 0 0 1 0 0 0 0 0 1 
+currentState.dt2 0 0 0 1 0 0 0 0 0 0 1 
+currentState.dt3 0 0 1 0 0 0 0 0 0 0 1 
+currentState.dt4 0 1 0 0 0 0 0 0 0 0 1 
+currentState.dt5 1 0 0 0 0 0 0 0 0 0 1 
